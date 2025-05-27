@@ -1,7 +1,7 @@
-## Hello, audience!   
-The curtains are up. Let the code performance begin! 
+## :sparkles:Hello, audience!:sparkles:  
+The curtains are up. Let the code performance begin!
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:4B0082,50:6A5ACD,100:00BFFF&height=300&section=header&text=It's%20showtime&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,50:6A5ACD,100:00BFFF&height=300&section=header&text=It's%20showtime&textColor=ffffff)
 
 
 ## Tech Stack
